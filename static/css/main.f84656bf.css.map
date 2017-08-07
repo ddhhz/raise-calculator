@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,KACE,qDAAyD","file":"static/css/main.f84656bf.css","sourcesContent":["h1, p {\n  font-family: \"Helvetica Neue\",Helvetica,Arial,sans-serif;\n}\n\n\n\n// WEBPACK FOOTER //\n// ./src/style.css"],"sourceRoot":""}
